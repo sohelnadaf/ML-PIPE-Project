@@ -1,0 +1,1 @@
+"all connections and urls common "
